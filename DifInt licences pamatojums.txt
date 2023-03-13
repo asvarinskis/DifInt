@@ -1,0 +1,1 @@
+Tika izvēlēta MIT licence, jo DifInt programmatūras mērķis nav gūt peļņu, autors ir apmierināts ar koda brīvu lietošanu, izplatīšanu un modificēšanu.
