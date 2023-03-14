@@ -1,2 +1,2 @@
 https://DifInt.solidboy878.repl.co
-https://replit.com/@solidboy878/DifInt#main.py
+https://replit.com/@solidboy878/DifInt
